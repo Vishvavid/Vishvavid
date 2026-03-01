@@ -96,3 +96,17 @@ Brand-aware content planning and post generation.
 ## 📫 Let's Connect
 
 Open for collaboration in AI, automation and backend-heavy projects.
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishvavid&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvavid&layout=compact&theme=transparent)
+
+---
+
+### 📬 Contacts
+
+- **Telegram**: [@prompt_pavel](https://t.me/prompt_pavel)
+- **Email**: test-PEn07@yandex.ru

@@ -101,8 +101,8 @@ Open for collaboration in AI, automation and backend-heavy projects.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishvavid&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvavid&layout=compact&theme=transparent)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishvavid&show_icons=true&theme=transparent)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvavid&layout=compact&theme=transparent)
 
 ---
 
